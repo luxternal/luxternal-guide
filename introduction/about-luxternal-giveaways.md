@@ -8,7 +8,7 @@ description: >-
 
 ## What Are Our Luxternal Tokens?
 
-A luxternal token is an [NFT\(What Is An NF](faq.md#what-is-an-nft)[?\)](faq.md#what-is-an-nft) that offers holders the 'crown' status, where they will have exclusive members-only advantages. Because this is all new to everyone, we've devised a step-by-step procedure to help you purchase our token. [\(Click Here To Access\)](../buy-a-luxternal-token/step-by-step-process.md)
+A luxternal token is an [NFT\(What Is An NF](faq.md#what-is-an-nft)[?\)](faq.md#what-is-an-nft) that offers holders the 'crown' status, where they will have exclusive members-only advantages. Because this is all new to everyone, we've devised a step-by-step procedure to help you purchase our tokene. [\(Click Here To Access\)](../buy-a-luxternal-token/step-by-step-process.md)
 
 The first holders of each token released are assured a seat in our large-scale targeted Influencer Giveaways on **Instagram**. We enter into a contractual agreement with the influencers and agree on a Giveaway campaign, with each campaign being tailored to the influencer's target market.
 
